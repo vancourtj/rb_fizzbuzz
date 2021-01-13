@@ -25,7 +25,3 @@ def fb_array(n)
     }
     return fb_list
 end
-
-test = fb_array(30)[0].is_a? String
-
-print test
